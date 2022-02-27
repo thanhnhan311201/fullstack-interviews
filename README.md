@@ -84,8 +84,10 @@
     - [**React Native**](./mobile/react-native/): 30 câu hỏi phỏng vấn về React Native.
 - Ngôn ngữ lập trình:
     - [**Java**](./mobile/java): 54 câu hỏi phỏng vấn về Java.
-    
+
 # Tham khảo 
+
+* [**Các câu hỏi phỏng vấn JavaScript từ cơ bản đến nâng cao**](https://dev.to/macmacky/70-javascript-interview-questions-5gfi?fbclid=IwAR1OqYCCCRo78S5FIt8ZKr4HktTki5IV_WS7CpcDersROLvV1bJVp6Sw-OE)
 
 * [**Interviewbit**](https://www.interviewbit.com)
 
